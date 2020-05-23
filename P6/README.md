@@ -1,5 +1,6 @@
 #### Table of contents
 - [Prerequisites](#Prerequisites)
+- [rqt_graph](#rqt_graph)
 - [Simulation of Navigation Stack (Navigation)](#Simulation-of-navigation-stack-navigation)
 - [Simulation of Navigation Stack (SLAM)](#Simulation-of-navigation-stack-SLAM)
 - [Plugin](#Plugin)
@@ -12,6 +13,12 @@
 ## Prerequisites
 - **Ubuntu 18.04 with Melodic ROS distribution** is required for installation of Gazebo 9.1 or higher. Click [here](http://releases.ubuntu.com/18.04.4/?_ga=2.30273727.1896459521.1588157994-1099108351.1588060257) for Ubuntu 18.04 installation guide. Click [here](http://wiki.ros.org/melodic/Installation/Ubuntu) for ROS installation guide for Melodic.
 - **Gazebo 9.1 or higher** is required for collision on actor to work. Click [here](#Installation-of-Gazebo-13)  for installation guide.
+
+<br>
+
+## rqt_graph
+The following figure shows the rqt_graph for the developed navigation stack (neo_ws)
+![picture](images/navigationStack_rqtFull.png)
 
 <br>
 
